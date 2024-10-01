@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585628822697",
+    "project_id": "favorite-car-cbc4e",
+    "storage_bucket": "favorite-car-cbc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585628822697:android:c625992ef10c064159cdb8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD12tLFdHlUqfOcOQR1elLpXy-3ISE6zmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
